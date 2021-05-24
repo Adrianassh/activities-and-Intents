@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activities and Intents</string>
+    <string name="edit_tittle">Enter Tittle</string>
+    <string name="edit_book">Enter Book</string>
+    <string name="edit_capther">Enter Chapter</string>
+    <string name="edit_verse">Enter Verse</string>
+    <string name="button_send">Send</string>
+</resources>
